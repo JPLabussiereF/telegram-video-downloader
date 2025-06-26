@@ -1,0 +1,6 @@
+.env
+*.session
+telegram_videos/
+telegram_videos_compressed/
+__pycache__/
+*.pyc
